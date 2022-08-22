@@ -1,3 +1,7 @@
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=300&section=header&text=WELCOME%20&fontSize=90&desc=BonduSeo%20GitHub%20Profile%20&fontAlign=70&descAlign=83&descAlignY=65&animation=fadeIn)
+
+
+
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 <p align="center">
