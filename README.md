@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=300&section=header&text=WELCOME%20&fontSize=90&desc=Seung-Jae%20GitHub%20&fontAlign=30&descAlign=30&descAlignY=65&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=300&section=header&text=BonduSeo%20&fontSize=90&desc=%20GitHub%20&fontAlign=30&descAlign=30&descAlignY=65&animation=twinkling)
 <br>
 
-<h3 align="center"><b>🛠 The skills I learned 🛠</b></h3>
+<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 <p align="center">
 <img alt="PHP" src ="https://img.shields.io/badge/PHP-777BB4.svg?&style=flat-square&logo=PHP&logoColor=white"/>
 <img alt="MariaDB" src ="https://img.shields.io/badge/MariaDB-003545.svg?&style=flat-square&logo=MariaDB&logoColor=white"/>
