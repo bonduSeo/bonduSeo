@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=300&section=header&text=BonduSeo%20&fontSize=90&desc=%20GitHub%20&fontAlign=30&descAlign=30&descAlignY=65&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=300&section=header&text=BonduSeo%20&fontSize=90&desc=%20%20&fontAlign=30&descAlign=30&descAlignY=65&animation=twinkling)
 <br>
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
