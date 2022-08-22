@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=300&section=header&text=Hello,There!%20&fontSize=90&desc=BonduSeo%20GitHub%20Profile%20&fontAlign=60&descAlign=83&descAlignY=65&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=300&section=header&text=Hello,There!%20&fontSize=90&desc=BonduSeo%20GitHub%20Profile%20&fontAlign=65&descAlign=83&descAlignY=65&animation=fadeIn)
 
 
 
