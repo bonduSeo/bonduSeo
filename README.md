@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=300&section=header&text=BonduSeo%20&fontSize=90&desc=%20%20&fontAlign=30&descAlign=30&descAlignY=65&animation=twinkling)
-<br>
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 <p align="center">
@@ -8,9 +6,10 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
 <img alt="CSS3" src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
- </p>
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
-*** 
+
+ 
 
 
 
